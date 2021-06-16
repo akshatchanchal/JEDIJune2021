@@ -1,4 +1,8 @@
 #include<stdio.h>
 int main(){
-	cout<<"Hello World!";
+	helloWorld();
+}
+void helloWorld(){
+	printf("Hello World!");
+	printf("This is C");
 }
