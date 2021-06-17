@@ -8,5 +8,8 @@ public class HelloWorld {
     public void hello(){
     	System.out.println("hello");
     }
+    public void greeting(String name){
+	    System.out.println("Hey,How are you doing?."+name);
+    }
 
 }
